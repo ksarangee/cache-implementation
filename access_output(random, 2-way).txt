@@ -1,0 +1,10 @@
+[Accessed Data]
+16	b	0xffffffa9
+64	h	0xfffffedc
+32	w	0x899a7665
+18	w	0xa9984556
+29	b	0xffffff87
+---------------------------------------
+[2-way Set Associative Cache performance]
+Hit ratio = 0.00 (0/5)
+Bandwidth = 0.02 (12/505)
